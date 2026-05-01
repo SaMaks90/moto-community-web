@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "MotoCommunity — Znajdź swój przejazd",
+    "description": "Poznaj motocyklistów, planuj przejazdy grupowe i buduj swoje zaufane grono jeźdźców. Dostępne na iOS."
+  },
+  "nav": {
+    "privacy": "Polityka prywatności",
+    "support": "Wsparcie"
+  },
+  "hero": {
+    "tagline": "Znajdź swój przejazd",
+    "subtitle": "Poznaj motocyklistów, planuj wspólne przejazdy i buduj zaufaną społeczność jeźdźców.",
+    "badge": "Wkrótce w App Store"
+  },
+  "features": {
+    "title": "Wszystko dla jeźdźców",
+    "find_rides_title": "Znajdź przejazdy w pobliżu",
+    "find_rides_desc": "Odkrywaj przejazdy motocyklowe wokół siebie na interaktywnej mapie i dołącz do tych, które Ci odpowiadają.",
+    "create_rides_title": "Zaplanuj przygodę",
+    "create_rides_desc": "Twórz przejazdy, ustalaj trasę i szczegóły oraz zapraszaj innych jeźdźców.",
+    "circle_title": "Buduj swoje Koło Jeźdźców",
+    "circle_desc": "Oceniaj jeźdźców po każdej podróży i buduj zaufaną społeczność motocyklistów.",
+    "languages_title": "Jedź bez barier",
+    "languages_desc": "Filtruj przejazdy według języka — idealne dla emigrantów i podróżników."
+  },
+  "cta": {
+    "title": "Gotowy do jazdy?",
+    "subtitle": "Dołącz do społeczności miłośników motocykli. Wkrótce na iOS.",
+    "button": "Pobierz w App Store",
+    "coming_soon": "Wkrótce"
+  },
+  "footer": {
+    "privacy": "Polityka prywatności",
+    "support": "Wsparcie",
+    "telegram": "Telegram",
+    "copyright": "© 2026 MotoCommunity. Wszelkie prawa zastrzeżone."
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "updated": "Ostatnia aktualizacja: 1 maja 2026",
+    "intro": "MotoCommunity (\"my\", \"nas\", \"nasz\") zobowiązuje się do ochrony Twoich danych osobowych. Niniejsza Polityka prywatności wyjaśnia, jakie dane zbieramy, jak je wykorzystujemy oraz jakie masz prawa.",
+    "section_collect_title": "1. Dane, które zbieramy",
+    "section_collect_body": "Korzystając z MotoCommunity, zbieramy: imię i adres e-mail przy rejestracji; przybliżoną lokalizację (miasto/region) w profilu; zdjęcie profilowe przesłane przez Ciebie; szczegóły przejazdów motocyklowych; oceny i recenzje; języki, którymi mówisz (opcjonalnie); tokeny uwierzytelniające do zarządzania sesją.",
+    "section_use_title": "2. Jak wykorzystujemy Twoje dane",
+    "section_use_body": "Używamy Twoich danych do: świadczenia usług aplikacji MotoCommunity; pokazywania pobliskich przejazdów i jeźdźców; funkcji społecznościowych (Koło Jeźdźców, oceny); wysyłania e-maili transakcyjnych; ulepszania produktu.",
+    "section_third_title": "3. Usługi zewnętrzne",
+    "section_third_body": "MotoCommunity korzysta z następujących usług zewnętrznych: Google OAuth i Apple Sign In — uwierzytelnianie; Cloudflare R2 — przechowywanie zdjęć profilowych; Resend — e-maile transakcyjne; Railway — hosting serwera; Neon (PostgreSQL) — baza danych.",
+    "section_retention_title": "4. Przechowywanie danych",
+    "section_retention_body": "Przechowujemy Twoje dane tak długo, jak Twoje konto jest aktywne. Możesz usunąć konto w dowolnym momencie przez Ustawienia → Strefa niebezpieczna → Usuń konto. Po usunięciu wszystkie Twoje dane osobowe są trwale i natychmiast usuwane.",
+    "section_rights_title": "5. Twoje prawa",
+    "section_rights_body": "Masz prawo dostępu, poprawienia lub usunięcia swoich danych osobowych w dowolnym momencie. Aby zażądać eksportu lub usunięcia danych, skontaktuj się z nami pod adresem e-mail poniżej.",
+    "section_security_title": "6. Bezpieczeństwo",
+    "section_security_body": "Stosujemy standardowe środki bezpieczeństwa, w tym HTTPS, hashowanie haseł i bezpieczne przechowywanie tokenów.",
+    "section_contact_title": "7. Kontakt",
+    "section_contact_body": "Jeśli masz pytania dotyczące niniejszej Polityki prywatności, skontaktuj się z nami:",
+    "back": "← Powrót do strony głównej"
+  }
+}

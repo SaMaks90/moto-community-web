@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "MotoCommunity — Finde deine Fahrt",
+    "description": "Verbinde dich mit Motorradfahrern, plane Gruppenfahrten und baue deinen vertrauensvollen Fahrerkreis auf. Verfügbar auf iOS."
+  },
+  "nav": {
+    "privacy": "Datenschutzrichtlinie",
+    "support": "Support"
+  },
+  "hero": {
+    "tagline": "Finde deine Fahrt",
+    "subtitle": "Verbinde dich mit Motorradfahrern, plane Gruppenfahrten und baue eine vertrauensvolle Gemeinschaft auf.",
+    "badge": "Demnächst im App Store"
+  },
+  "features": {
+    "title": "Alles für Fahrer",
+    "find_rides_title": "Fahrten in der Nähe finden",
+    "find_rides_desc": "Entdecke Motorradtouren in deiner Nähe auf einer interaktiven Karte und schließe dich passenden Fahrten an.",
+    "create_rides_title": "Dein Abenteuer planen",
+    "create_rides_desc": "Erstelle Fahrten, lege Route und Details fest und lade andere Fahrer ein.",
+    "circle_title": "Deinen Fahrerkreis aufbauen",
+    "circle_desc": "Bewerte Fahrer nach jeder Tour und baue eine vertrauensvolle Gemeinschaft von Motorradfahrern auf.",
+    "languages_title": "Fahren ohne Barrieren",
+    "languages_desc": "Filtere Fahrten nach Sprache — ideal für Auswanderer und Reisende in einem neuen Land."
+  },
+  "cta": {
+    "title": "Bereit zu fahren?",
+    "subtitle": "Tritt der Gemeinschaft der Motorradenthusiasten bei. Demnächst auf iOS.",
+    "button": "Im App Store herunterladen",
+    "coming_soon": "Demnächst"
+  },
+  "footer": {
+    "privacy": "Datenschutzrichtlinie",
+    "support": "Support",
+    "telegram": "Telegram",
+    "copyright": "© 2026 MotoCommunity. Alle Rechte vorbehalten."
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "updated": "Zuletzt aktualisiert: 1. Mai 2026",
+    "intro": "MotoCommunity (\"wir\", \"uns\", \"unser\") verpflichtet sich zum Schutz Ihrer persönlichen Daten. Diese Datenschutzrichtlinie erläutert, welche Daten wir erheben, wie wir sie verwenden und welche Rechte Sie haben.",
+    "section_collect_title": "1. Daten, die wir erheben",
+    "section_collect_body": "Bei der Nutzung von MotoCommunity erheben wir: Name und E-Mail bei der Registrierung; ungefähren Standort (Stadt/Region) im Profil; von Ihnen hochgeladenes Profilfoto; Details zu Motorradtouren; Bewertungen und Rezensionen; Sprachen, die Sie sprechen (optional); Authentifizierungstoken zur Sitzungsverwaltung.",
+    "section_use_title": "2. Verwendung Ihrer Daten",
+    "section_use_body": "Wir verwenden Ihre Daten für: Bereitstellung und Betrieb der MotoCommunity-App; Anzeige von Fahrten und Fahrern in der Nähe; Community-Funktionen (Fahrerkreis, Bewertungen); transaktionale E-Mails; Produktverbesserungen.",
+    "section_third_title": "3. Drittanbieter-Dienste",
+    "section_third_body": "MotoCommunity verwendet folgende Dienste: Google OAuth und Apple Sign In — Authentifizierung; Cloudflare R2 — Profilfotos; Resend — transaktionale E-Mails; Railway — Server-Hosting; Neon (PostgreSQL) — Datenbank.",
+    "section_retention_title": "4. Datenspeicherung",
+    "section_retention_body": "Wir speichern Ihre Daten, solange Ihr Konto aktiv ist. Sie können Ihr Konto jederzeit unter Einstellungen → Gefahrenzone → Konto löschen entfernen. Nach der Löschung werden alle Ihre persönlichen Daten sofort und dauerhaft gelöscht.",
+    "section_rights_title": "5. Ihre Rechte",
+    "section_rights_body": "Sie haben das Recht, Ihre persönlichen Daten jederzeit einzusehen, zu korrigieren oder zu löschen. Wenden Sie sich für Datenexport oder -löschung an uns.",
+    "section_security_title": "6. Sicherheit",
+    "section_security_body": "Wir verwenden branchenübliche Sicherheitsmaßnahmen, einschließlich HTTPS, Passwort-Hashing und sicherer Token-Speicherung.",
+    "section_contact_title": "7. Kontakt",
+    "section_contact_body": "Bei Fragen zu dieser Datenschutzrichtlinie wenden Sie sich bitte an:",
+    "back": "← Zurück zur Startseite"
+  }
+}

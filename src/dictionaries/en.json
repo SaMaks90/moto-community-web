@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "MotoCommunity — Find Your Ride",
+    "description": "Connect with motorcycle riders, plan group rides, and build your trusted riding circle. Available on iOS."
+  },
+  "nav": {
+    "privacy": "Privacy Policy",
+    "support": "Support"
+  },
+  "hero": {
+    "tagline": "Find Your Ride",
+    "subtitle": "Connect with motorcycle riders, plan group rides, and build your trusted community of fellow motorcyclists.",
+    "badge": "Coming soon on App Store"
+  },
+  "features": {
+    "title": "Everything for riders",
+    "find_rides_title": "Find Rides Nearby",
+    "find_rides_desc": "Discover motorcycle rides around you on an interactive map and join the ones that suit you.",
+    "create_rides_title": "Plan Your Adventure",
+    "create_rides_desc": "Create rides, set the route and details, and invite fellow riders to join your trip.",
+    "circle_title": "Build Your Riding Circle",
+    "circle_desc": "Rate riders after every trip and build a trusted community of motorcyclists you can rely on.",
+    "languages_title": "Ride Without Barriers",
+    "languages_desc": "Filter rides by spoken language — perfect for emigrants and travelers riding in a new country."
+  },
+  "cta": {
+    "title": "Ready to ride?",
+    "subtitle": "Join the community of motorcycle enthusiasts. Coming soon on iOS.",
+    "button": "Download on App Store",
+    "coming_soon": "Coming Soon"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "support": "Support",
+    "telegram": "Telegram",
+    "copyright": "© 2026 MotoCommunity. All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: May 1, 2026",
+    "intro": "MotoCommunity (\"we\", \"our\", or \"us\") is committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights.",
+    "section_collect_title": "1. Data We Collect",
+    "section_collect_body": "When you use MotoCommunity, we collect: your name and email address during registration; your approximate location (city/region) shown on your profile; profile photo uploaded by you; motorcycle ride details you create or join; ratings and reviews you submit; languages you speak (optional); authentication tokens for session management.",
+    "section_use_title": "2. How We Use Your Data",
+    "section_use_body": "We use your data to: provide and operate the MotoCommunity app; show you nearby rides and riders; enable community features (Riding Circle, ratings); send transactional emails (email verification, password reset); improve the product based on aggregated usage patterns.",
+    "section_third_title": "3. Third-Party Services",
+    "section_third_body": "MotoCommunity uses the following third-party services: Google OAuth and Apple Sign In — for authentication; Cloudflare R2 — for storing profile photos; Resend — for sending transactional emails; Railway — for server hosting; Neon (PostgreSQL) — for database storage.",
+    "section_retention_title": "4. Data Retention",
+    "section_retention_body": "We store your data for as long as your account is active. You can delete your account at any time from Settings → Danger Zone → Delete Account. Upon deletion, all your personal data is permanently and immediately removed.",
+    "section_rights_title": "5. Your Rights",
+    "section_rights_body": "You have the right to access, correct, or delete your personal data at any time. To request data export or deletion, contact us at the email below.",
+    "section_security_title": "6. Security",
+    "section_security_body": "We use industry-standard security measures including HTTPS, hashed passwords, and secure token storage. However, no method of transmission over the internet is 100% secure.",
+    "section_contact_title": "7. Contact",
+    "section_contact_body": "If you have any questions about this Privacy Policy, please contact us at:",
+    "back": "← Back to Home"
+  }
+}
