@@ -1,14 +1,8 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const size = { width: 1200, height: 630 };
-export const contentType = "image/png";
 
-export function generateStaticParams() {
-  return ["en", "uk", "pl", "de", "ru", "be"].map((lang) => ({ lang }));
-}
-
-export default function OgImage() {
+const OgImage = () => {
   return new ImageResponse(
     (
       <div
@@ -76,6 +70,8 @@ export default function OgImage() {
         </div>
       </div>
     ),
-    { width: 1200, height: 630 }
+    { width: 1200, height: 630 },
   );
-}
+};
+
+export default OgImage;

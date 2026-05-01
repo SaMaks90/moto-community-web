@@ -11,7 +11,7 @@ const LOCALES = [
   { code: "be", label: "🇧🇾 Беларуская" },
 ];
 
-export default function LanguageSwitcher({ lang }: { lang: string }) {
+const LanguageSwitcher = ({ lang }: { lang: string }) => {
   const router = useRouter();
 
   const handleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -34,4 +34,6 @@ export default function LanguageSwitcher({ lang }: { lang: string }) {
       ))}
     </select>
   );
-}
+};
+
+export default LanguageSwitcher;

@@ -6,31 +6,32 @@ import Negotiator from "negotiator";
 const locales = ["en", "uk", "pl", "de", "ru", "be"];
 const defaultLocale = "en";
 
-function getLocale(request: NextRequest): string {
+const getLocale = (request: NextRequest): string => {
   const acceptLanguage = request.headers.get("accept-language") ?? "";
   const headers = { "accept-language": acceptLanguage };
   const languages = new Negotiator({ headers }).languages();
+
   try {
     return match(languages, locales, defaultLocale);
   } catch {
     return defaultLocale;
   }
-}
+};
 
-export function proxy(request: NextRequest) {
+export const proxy = (request: NextRequest) => {
   const { pathname } = request.nextUrl;
 
   const pathnameHasLocale = locales.some(
-    (locale) =>
-      pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
+    (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`,
   );
 
   if (pathnameHasLocale) return;
 
   const locale = getLocale(request);
   request.nextUrl.pathname = `/${locale}${pathname}`;
+
   return NextResponse.redirect(request.nextUrl);
-}
+};
 
 export const config = {
   matcher: [

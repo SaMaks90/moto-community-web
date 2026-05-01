@@ -2,7 +2,7 @@ type Props = {
   cta: { title: string; subtitle: string; coming_soon: string };
 };
 
-export default function DownloadCTA({ cta }: Props) {
+const DownloadCTA = ({ cta }: Props) => {
   return (
     <section className="py-24 px-6">
       <div className="max-w-2xl mx-auto text-center">
@@ -26,4 +26,6 @@ export default function DownloadCTA({ cta }: Props) {
       </div>
     </section>
   );
-}
+};
+
+export default DownloadCTA;

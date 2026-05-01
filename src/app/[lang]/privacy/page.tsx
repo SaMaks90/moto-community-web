@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale, type Locale } from "../dictionaries";
 import Header from "../../../components/Header";
@@ -6,10 +7,15 @@ import Link from "next/link";
 
 const locales = ["en", "uk", "pl", "de", "ru", "be"];
 
-export async function generateMetadata({ params }: PageProps<"/[lang]/privacy">) {
+export const generateMetadata = async ({
+  params,
+}: PageProps<"/[lang]/privacy">): Promise<Metadata> => {
   const { lang } = await params;
+
   if (!hasLocale(lang)) return {};
+
   const dict = await getDictionary(lang as Locale);
+
   return {
     title: `${dict.privacy.title} — MotoCommunity`,
     description: dict.meta.description,
@@ -26,14 +32,15 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/privacy">)
       description: dict.meta.description,
     },
   };
-}
+};
 
-export default async function PrivacyPage({ params }: PageProps<"/[lang]/privacy">) {
+const PrivacyPage = async ({ params }: PageProps<"/[lang]/privacy">) => {
   const { lang } = await params;
+
   if (!hasLocale(lang)) notFound();
 
   const dict = await getDictionary(lang as Locale);
-  const p = dict.privacy;
+  const privacy = dict.privacy;
 
   return (
     <>
@@ -43,21 +50,21 @@ export default async function PrivacyPage({ params }: PageProps<"/[lang]/privacy
           href={`/${lang}`}
           className="text-orange-400 hover:text-orange-300 text-sm mb-8 inline-block transition-colors"
         >
-          {p.back}
+          {privacy.back}
         </Link>
 
-        <h1 className="text-3xl font-bold mb-2">{p.title}</h1>
-        <p className="text-white/40 text-sm mb-10">{p.updated}</p>
+        <h1 className="text-3xl font-bold mb-2">{privacy.title}</h1>
+        <p className="text-white/40 text-sm mb-10">{privacy.updated}</p>
 
-        <p className="text-white/80 mb-10 leading-relaxed">{p.intro}</p>
+        <p className="text-white/80 mb-10 leading-relaxed">{privacy.intro}</p>
 
         {[
-          [p.section_collect_title, p.section_collect_body],
-          [p.section_use_title, p.section_use_body],
-          [p.section_third_title, p.section_third_body],
-          [p.section_retention_title, p.section_retention_body],
-          [p.section_rights_title, p.section_rights_body],
-          [p.section_security_title, p.section_security_body],
+          [privacy.section_collect_title, privacy.section_collect_body],
+          [privacy.section_use_title, privacy.section_use_body],
+          [privacy.section_third_title, privacy.section_third_body],
+          [privacy.section_retention_title, privacy.section_retention_body],
+          [privacy.section_rights_title, privacy.section_rights_body],
+          [privacy.section_security_title, privacy.section_security_body],
         ].map(([title, body]) => (
           <section key={title} className="mb-8">
             <h2 className="text-lg font-semibold mb-3">{title}</h2>
@@ -66,8 +73,12 @@ export default async function PrivacyPage({ params }: PageProps<"/[lang]/privacy
         ))}
 
         <section className="mb-8">
-          <h2 className="text-lg font-semibold mb-3">{p.section_contact_title}</h2>
-          <p className="text-white/70 leading-relaxed mb-2">{p.section_contact_body}</p>
+          <h2 className="text-lg font-semibold mb-3">
+            {privacy.section_contact_title}
+          </h2>
+          <p className="text-white/70 leading-relaxed mb-2">
+            {privacy.section_contact_body}
+          </p>
           <a
             href="mailto:samchenkoms@gmail.com"
             className="text-orange-400 hover:text-orange-300 transition-colors"
@@ -79,4 +90,6 @@ export default async function PrivacyPage({ params }: PageProps<"/[lang]/privacy
       <Footer footer={dict.footer} lang={lang} />
     </>
   );
-}
+};
+
+export default PrivacyPage;

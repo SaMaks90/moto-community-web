@@ -3,7 +3,7 @@ type Props = {
   cta: { coming_soon: string };
 };
 
-export default function Hero({ hero, cta }: Props) {
+const Hero = ({ hero, cta }: Props) => {
   return (
     <section className="relative py-28 md:py-36 flex items-center justify-center overflow-hidden px-6">
       <div
@@ -41,4 +41,6 @@ export default function Hero({ hero, cta }: Props) {
       </div>
     </section>
   );
-}
+};
+
+export default Hero;

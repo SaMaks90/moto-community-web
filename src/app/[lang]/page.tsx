@@ -8,8 +8,9 @@ import Footer from "../../components/Footer";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://motocommunity.app";
 
-export default async function HomePage({ params }: PageProps<"/[lang]">) {
+const HomePage = async ({ params }: PageProps<"/[lang]">) => {
   const { lang } = await params;
+
   if (!hasLocale(lang)) notFound();
 
   const dict = await getDictionary(lang as Locale);
@@ -50,4 +51,6 @@ export default async function HomePage({ params }: PageProps<"/[lang]">) {
       <Footer footer={dict.footer} lang={lang} />
     </>
   );
-}
+};
+
+export default HomePage;
