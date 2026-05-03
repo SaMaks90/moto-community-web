@@ -21,13 +21,28 @@
     "circle_title": "Deinen Fahrerkreis aufbauen",
     "circle_desc": "Bewerte Fahrer nach jeder Tour und baue eine vertrauensvolle Gemeinschaft von Motorradfahrern auf.",
     "languages_title": "Fahren ohne Barrieren",
-    "languages_desc": "Filtere Fahrten nach Sprache — ideal für Auswanderer und Reisende in einem neuen Land."
+    "languages_desc": "Gib Sprachen an, die du sprichst oder verbessern möchtest. Finde Fahrten, bei denen du deine Muttersprache sprechen oder eine neue üben kannst — gemacht für Auswanderer und Reisende."
+  },
+  "coming_features": {
+    "title": "Kommende Funktionen",
+    "badge": "Demnächst",
+    "sos_title": "SOS-Hilfe",
+    "sos_desc": "Signalisiere Fahrern in der Nähe, wenn du Hilfe auf der Straße brauchst.",
+    "clubs_title": "Clubs",
+    "clubs_desc": "Trete Motorradclubs bei und erstelle eigene — fahrt regelmäßig zusammen.",
+    "events_title": "Events",
+    "events_desc": "Entdecke und organisiere Mototreffen, Gruppenfahrten und Partys.",
+    "sto_title": "Werkstatt-Katalog",
+    "sto_desc": "Finde vertrauenswürdige Motorradwerkstätten in deiner Nähe.",
+    "store_title": "Shop",
+    "store_desc": "Entdecke Motorradausrüstung, Ersatzteile, Jacken und Zubehör von vertrauenswürdigen Shops — alles an einem Ort."
   },
   "cta": {
     "title": "Bereit zu fahren?",
     "subtitle": "Tritt der Gemeinschaft der Motorradenthusiasten bei. Demnächst auf iOS.",
     "button": "Im App Store herunterladen",
-    "coming_soon": "Demnächst"
+    "coming_soon": "Demnächst",
+    "android_soon": "Android — Geplant"
   },
   "footer": {
     "privacy": "Datenschutzrichtlinie",

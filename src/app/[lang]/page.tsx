@@ -3,6 +3,7 @@ import { getDictionary, hasLocale, type Locale } from "./dictionaries";
 import Header from "../../components/Header";
 import Hero from "../../components/Hero";
 import Features from "../../components/Features";
+import ComingFeatures from "../../components/ComingFeatures";
 import DownloadCTA from "../../components/DownloadCTA";
 import Footer from "../../components/Footer";
 
@@ -46,6 +47,7 @@ const HomePage = async ({ params }: PageProps<"/[lang]">) => {
       <main>
         <Hero hero={dict.hero} cta={dict.cta} />
         <Features features={dict.features} />
+        <ComingFeatures comingFeatures={dict.coming_features} />
         <DownloadCTA cta={dict.cta} />
       </main>
       <Footer footer={dict.footer} lang={lang} />

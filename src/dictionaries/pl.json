@@ -21,13 +21,28 @@
     "circle_title": "Buduj swoje Koło Jeźdźców",
     "circle_desc": "Oceniaj jeźdźców po każdej podróży i buduj zaufaną społeczność motocyklistów.",
     "languages_title": "Jedź bez barier",
-    "languages_desc": "Filtruj przejazdy według języka — idealne dla emigrantów i podróżników."
+    "languages_desc": "Zaznacz języki, którymi mówisz lub chcesz ćwiczyć. Znajdź przejazdy, gdzie możesz rozmawiać w swoim języku lub uczyć się nowego — stworzone dla emigrantów i podróżników."
+  },
+  "coming_features": {
+    "title": "Przyszłe funkcje",
+    "badge": "Wkrótce",
+    "sos_title": "Pomoc SOS",
+    "sos_desc": "Sygnalizuj pobliskim jeźdźcom, gdy potrzebujesz pomocy na drodze.",
+    "clubs_title": "Kluby",
+    "clubs_desc": "Dołącz i twórz kluby motocyklowe, jeźdź regularnie razem.",
+    "events_title": "Wydarzenia",
+    "events_desc": "Odkrywaj i organizuj zloty, przejazdy grupowe i imprezy motocyklowe.",
+    "sto_title": "Katalog serwisów",
+    "sto_desc": "Znajdź zaufane serwisy motocyklowe w pobliżu.",
+    "store_title": "Sklep",
+    "store_desc": "Przeglądaj sprzęt, części, kurtki i akcesoria motocyklowe od zaufanych sklepów — wszystko w jednym miejscu."
   },
   "cta": {
     "title": "Gotowy do jazdy?",
     "subtitle": "Dołącz do społeczności miłośników motocykli. Wkrótce na iOS.",
     "button": "Pobierz w App Store",
-    "coming_soon": "Wkrótce"
+    "coming_soon": "Wkrótce",
+    "android_soon": "Android — W planach"
   },
   "footer": {
     "privacy": "Polityka prywatności",

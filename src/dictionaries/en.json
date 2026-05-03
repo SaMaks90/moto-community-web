@@ -21,13 +21,28 @@
     "circle_title": "Build Your Riding Circle",
     "circle_desc": "Rate riders after every trip and build a trusted community of motorcyclists you can rely on.",
     "languages_title": "Ride Without Barriers",
-    "languages_desc": "Filter rides by spoken language — perfect for emigrants and travelers riding in a new country."
+    "languages_desc": "Mark languages you speak or want to practice. Find rides where you can communicate in your native language or improve a new one — made for emigrants and travelers."
+  },
+  "coming_features": {
+    "title": "Future Features",
+    "badge": "Coming Soon",
+    "sos_title": "SOS Help",
+    "sos_desc": "Signal nearby riders when you need assistance on the road.",
+    "clubs_title": "Clubs",
+    "clubs_desc": "Join and create motorcycle clubs, ride together regularly.",
+    "events_title": "Events",
+    "events_desc": "Discover and organize moto meetups, group rides and parties.",
+    "sto_title": "STO Catalog",
+    "sto_desc": "Find trusted motorcycle service stations near you.",
+    "store_title": "Store",
+    "store_desc": "Browse motorcycle gear, parts, jackets and accessories from trusted shops — all in one place."
   },
   "cta": {
     "title": "Ready to ride?",
     "subtitle": "Join the community of motorcycle enthusiasts. Coming soon on iOS.",
     "button": "Download on App Store",
-    "coming_soon": "Coming Soon"
+    "coming_soon": "Coming Soon",
+    "android_soon": "Android — Future Plan"
   },
   "footer": {
     "privacy": "Privacy Policy",

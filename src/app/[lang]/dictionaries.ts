@@ -49,11 +49,26 @@ export const getDictionary = async (locale: Locale) => {
       languages_title: string;
       languages_desc: string;
     };
+    coming_features: {
+      title: string;
+      badge: string;
+      sos_title: string;
+      sos_desc: string;
+      clubs_title: string;
+      clubs_desc: string;
+      events_title: string;
+      events_desc: string;
+      sto_title: string;
+      sto_desc: string;
+      store_title: string;
+      store_desc: string;
+    };
     cta: {
       title: string;
       subtitle: string;
       button: string;
       coming_soon: string;
+      android_soon: string;
     };
     footer: {
       privacy: string;
