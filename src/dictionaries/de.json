@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "MotoCommunity — Finde deine Fahrt",
-    "description": "Verbinde dich mit Motorradfahrern, plane Gruppenfahrten und baue deinen vertrauensvollen Fahrerkreis auf. Verfügbar auf iOS."
+    "description": "Verbinde dich mit Motorradfahrern, plane Gruppenfahrten und baue dein \"Riding Circle\" auf. Verfügbar auf iOS."
   },
   "nav": {
     "privacy": "Datenschutzrichtlinie",
@@ -15,13 +15,13 @@
   "features": {
     "title": "Alles für Fahrer",
     "find_rides_title": "Fahrten in der Nähe finden",
-    "find_rides_desc": "Entdecke Motorradtouren in deiner Nähe auf einer interaktiven Karte und schließe dich passenden Fahrten an.",
+    "find_rides_desc": "Finde Fahrten in deiner Nähe auf der interaktiven Karte und schließ dich denen an, die zu dir passen.",
     "create_rides_title": "Dein Abenteuer planen",
     "create_rides_desc": "Erstelle Fahrten, lege Route und Details fest und lade andere Fahrer ein.",
-    "circle_title": "Deinen Fahrerkreis aufbauen",
-    "circle_desc": "Bewerte Fahrer nach jeder Tour und baue eine vertrauensvolle Gemeinschaft von Motorradfahrern auf.",
+    "circle_title": "Dein \"Riding Circle\" aufbauen",
+    "circle_desc": "Bewerte Fahrer nach jeder Tour und baue eine vertrauensvolle Gemeinschaft von Fahrern auf.",
     "languages_title": "Fahren ohne Barrieren",
-    "languages_desc": "Gib Sprachen an, die du sprichst oder verbessern möchtest. Finde Fahrten, bei denen du deine Muttersprache sprechen oder eine neue üben kannst — gemacht für Auswanderer und Reisende."
+    "languages_desc": "Finde Fahrten, bei denen du deine Muttersprache sprechen oder eine neue üben kannst — gemacht für Auswanderer und Reisende."
   },
   "coming_features": {
     "title": "Kommende Funktionen",
@@ -29,13 +29,13 @@
     "sos_title": "SOS-Hilfe",
     "sos_desc": "Signalisiere Fahrern in der Nähe, wenn du Hilfe auf der Straße brauchst.",
     "clubs_title": "Clubs",
-    "clubs_desc": "Trete Motorradclubs bei und erstelle eigene — fahrt regelmäßig zusammen.",
+    "clubs_desc": "Tritt einem Motorradclub bei oder erstelle deinen eigenen — verbringe regelmäßig Zeit mit Gleichgesinnten.",
     "events_title": "Events",
-    "events_desc": "Entdecke und organisiere Mototreffen, Gruppenfahrten und Partys.",
+    "events_desc": "Entdecke oder organisiere Mototreffen, Fahrten, Partys und moto gymkhana.",
     "sto_title": "Werkstatt-Katalog",
-    "sto_desc": "Finde vertrauenswürdige Motorradwerkstätten in deiner Nähe.",
-    "store_title": "Shop",
-    "store_desc": "Entdecke Motorradausrüstung, Ersatzteile, Jacken und Zubehör von vertrauenswürdigen Shops — alles an einem Ort."
+    "sto_desc": "Finde vertrauenswürdige Motorradwerkstätten in deiner Nähe und hinterlasse eine Bewertung zur Servicequalität.",
+    "store_title": "Shop-Katalog",
+    "store_desc": "Finde Shops in deiner Nähe. Shops mit Motorradausrüstung, Equipment, Ersatzteilen, Zubehör und allem, was du und dein Motorrad brauchen."
   },
   "cta": {
     "title": "Bereit zu fahren?",
@@ -57,7 +57,7 @@
     "section_collect_title": "1. Daten, die wir erheben",
     "section_collect_body": "Bei der Nutzung von MotoCommunity erheben wir: Name und E-Mail bei der Registrierung; ungefähren Standort (Stadt/Region) im Profil; von Ihnen hochgeladenes Profilfoto; Details zu Motorradtouren; Bewertungen und Rezensionen; Sprachen, die Sie sprechen (optional); Authentifizierungstoken zur Sitzungsverwaltung.",
     "section_use_title": "2. Verwendung Ihrer Daten",
-    "section_use_body": "Wir verwenden Ihre Daten für: Bereitstellung und Betrieb der MotoCommunity-App; Anzeige von Fahrten und Fahrern in der Nähe; Community-Funktionen (Fahrerkreis, Bewertungen); transaktionale E-Mails; Produktverbesserungen.",
+    "section_use_body": "Wir verwenden Ihre Daten für: Bereitstellung und Betrieb der MotoCommunity-App; Anzeige von Fahrten und Fahrern in der Nähe; Community-Funktionen (\"Riding Circle\", Bewertungen); transaktionale E-Mails; Produktverbesserungen.",
     "section_third_title": "3. Drittanbieter-Dienste",
     "section_third_body": "MotoCommunity verwendet folgende Dienste: Google OAuth und Apple Sign In — Authentifizierung; Cloudflare R2 — Profilfotos; Resend — transaktionale E-Mails; Railway — Server-Hosting; Neon (PostgreSQL) — Datenbank.",
     "section_retention_title": "4. Datenspeicherung",

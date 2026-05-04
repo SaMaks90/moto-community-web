@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "MotoCommunity — Znajdź swój przejazd",
-    "description": "Poznaj motocyklistów, planuj przejazdy grupowe i buduj swoje zaufane grono jeźdźców. Dostępne na iOS."
+    "description": "Poznaj motocyklistów, planuj przejazdy grupowe i buduj swoje \"Riding Circle\". Dostępne na iOS."
   },
   "nav": {
     "privacy": "Polityka prywatności",
@@ -15,13 +15,13 @@
   "features": {
     "title": "Wszystko dla jeźdźców",
     "find_rides_title": "Znajdź przejazdy w pobliżu",
-    "find_rides_desc": "Odkrywaj przejazdy motocyklowe wokół siebie na interaktywnej mapie i dołącz do tych, które Ci odpowiadają.",
+    "find_rides_desc": "Znajdź przejazdy w pobliżu na interaktywnej mapie i dołącz do tych, które Ci odpowiadają.",
     "create_rides_title": "Zaplanuj przygodę",
     "create_rides_desc": "Twórz przejazdy, ustalaj trasę i szczegóły oraz zapraszaj innych jeźdźców.",
-    "circle_title": "Buduj swoje Koło Jeźdźców",
-    "circle_desc": "Oceniaj jeźdźców po każdej podróży i buduj zaufaną społeczność motocyklistów.",
+    "circle_title": "Buduj swoje \"Riding Circle\"",
+    "circle_desc": "Oceniaj jeźdźców po każdej podróży i buduj zaufaną społeczność jeźdźców.",
     "languages_title": "Jedź bez barier",
-    "languages_desc": "Zaznacz języki, którymi mówisz lub chcesz ćwiczyć. Znajdź przejazdy, gdzie możesz rozmawiać w swoim języku lub uczyć się nowego — stworzone dla emigrantów i podróżników."
+    "languages_desc": "Znajdź przejazdy, gdzie możesz rozmawiać w swoim języku lub uczyć się nowego — stworzone dla emigrantów i podróżników."
   },
   "coming_features": {
     "title": "Przyszłe funkcje",
@@ -29,13 +29,13 @@
     "sos_title": "Pomoc SOS",
     "sos_desc": "Sygnalizuj pobliskim jeźdźcom, gdy potrzebujesz pomocy na drodze.",
     "clubs_title": "Kluby",
-    "clubs_desc": "Dołącz i twórz kluby motocyklowe, jeźdź regularnie razem.",
+    "clubs_desc": "Dołącz lub utwórz własny klub motocyklowy, regularnie spędzając czas wśród podobnie myślących jeźdźców.",
     "events_title": "Wydarzenia",
-    "events_desc": "Odkrywaj i organizuj zloty, przejazdy grupowe i imprezy motocyklowe.",
+    "events_desc": "Odkrywaj lub organizuj zloty, przejazdy, imprezy i moto gymkhana.",
     "sto_title": "Katalog serwisów",
-    "sto_desc": "Znajdź zaufane serwisy motocyklowe w pobliżu.",
-    "store_title": "Sklep",
-    "store_desc": "Przeglądaj sprzęt, części, kurtki i akcesoria motocyklowe od zaufanych sklepów — wszystko w jednym miejscu."
+    "sto_desc": "Znajdź zaufane serwisy motocyklowe w pobliżu i zostaw ocenę jakości usług.",
+    "store_title": "Katalog sklepów",
+    "store_desc": "Znajdź sklepy w pobliżu. Sklepy z ekwipunkiem motocyklowym, sprzętem, częściami, akcesoriami i wszystkim, czego potrzebujesz dla siebie i swojego motocykla."
   },
   "cta": {
     "title": "Gotowy do jazdy?",
@@ -57,7 +57,7 @@
     "section_collect_title": "1. Dane, które zbieramy",
     "section_collect_body": "Korzystając z MotoCommunity, zbieramy: imię i adres e-mail przy rejestracji; przybliżoną lokalizację (miasto/region) w profilu; zdjęcie profilowe przesłane przez Ciebie; szczegóły przejazdów motocyklowych; oceny i recenzje; języki, którymi mówisz (opcjonalnie); tokeny uwierzytelniające do zarządzania sesją.",
     "section_use_title": "2. Jak wykorzystujemy Twoje dane",
-    "section_use_body": "Używamy Twoich danych do: świadczenia usług aplikacji MotoCommunity; pokazywania pobliskich przejazdów i jeźdźców; funkcji społecznościowych (Koło Jeźdźców, oceny); wysyłania e-maili transakcyjnych; ulepszania produktu.",
+    "section_use_body": "Używamy Twoich danych do: świadczenia usług aplikacji MotoCommunity; pokazywania pobliskich przejazdów i jeźdźców; funkcji społecznościowych (\"Riding Circle\", oceny); wysyłania e-maili transakcyjnych; ulepszania produktu.",
     "section_third_title": "3. Usługi zewnętrzne",
     "section_third_body": "MotoCommunity korzysta z następujących usług zewnętrznych: Google OAuth i Apple Sign In — uwierzytelnianie; Cloudflare R2 — przechowywanie zdjęć profilowych; Resend — e-maile transakcyjne; Railway — hosting serwera; Neon (PostgreSQL) — baza danych.",
     "section_retention_title": "4. Przechowywanie danych",

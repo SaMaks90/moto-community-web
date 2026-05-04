@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "MotoCommunity — Find Your Ride",
-    "description": "Connect with motorcycle riders, plan group rides, and build your trusted riding circle. Available on iOS."
+    "description": "Connect with motorcycle riders, plan group rides, and build your \"Riding Circle\". Available on iOS."
   },
   "nav": {
     "privacy": "Privacy Policy",
@@ -15,13 +15,13 @@
   "features": {
     "title": "Everything for riders",
     "find_rides_title": "Find Rides Nearby",
-    "find_rides_desc": "Discover motorcycle rides around you on an interactive map and join the ones that suit you.",
+    "find_rides_desc": "Find rides near you on an interactive map and join the ones that suit you.",
     "create_rides_title": "Plan Your Adventure",
     "create_rides_desc": "Create rides, set the route and details, and invite fellow riders to join your trip.",
-    "circle_title": "Build Your Riding Circle",
-    "circle_desc": "Rate riders after every trip and build a trusted community of motorcyclists you can rely on.",
+    "circle_title": "Build Your \"Riding Circle\"",
+    "circle_desc": "Rate riders after every trip and build a trusted community of riders you can rely on.",
     "languages_title": "Ride Without Barriers",
-    "languages_desc": "Mark languages you speak or want to practice. Find rides where you can communicate in your native language or improve a new one — made for emigrants and travelers."
+    "languages_desc": "Find rides where you can communicate in your native language or practice a new one — made for emigrants and travelers."
   },
   "coming_features": {
     "title": "Future Features",
@@ -29,13 +29,13 @@
     "sos_title": "SOS Help",
     "sos_desc": "Signal nearby riders when you need assistance on the road.",
     "clubs_title": "Clubs",
-    "clubs_desc": "Join and create motorcycle clubs, ride together regularly.",
+    "clubs_desc": "Join or create your own motorcycle club, regularly spending time among like-minded riders.",
     "events_title": "Events",
-    "events_desc": "Discover and organize moto meetups, group rides and parties.",
+    "events_desc": "Discover or organize moto meetups, rides, parties, and moto gymkhana.",
     "sto_title": "STO Catalog",
-    "sto_desc": "Find trusted motorcycle service stations near you.",
-    "store_title": "Store",
-    "store_desc": "Browse motorcycle gear, parts, jackets and accessories from trusted shops — all in one place."
+    "sto_desc": "Find trusted motorcycle service stations near you and leave a rating about the quality of service.",
+    "store_title": "Shop Catalog",
+    "store_desc": "Find shops near you. Shops with motorcycle gear, equipment, parts, accessories and everything you need for you and your motorcycle."
   },
   "cta": {
     "title": "Ready to ride?",
@@ -57,7 +57,7 @@
     "section_collect_title": "1. Data We Collect",
     "section_collect_body": "When you use MotoCommunity, we collect: your name and email address during registration; your approximate location (city/region) shown on your profile; profile photo uploaded by you; motorcycle ride details you create or join; ratings and reviews you submit; languages you speak (optional); authentication tokens for session management.",
     "section_use_title": "2. How We Use Your Data",
-    "section_use_body": "We use your data to: provide and operate the MotoCommunity app; show you nearby rides and riders; enable community features (Riding Circle, ratings); send transactional emails (email verification, password reset); improve the product based on aggregated usage patterns.",
+    "section_use_body": "We use your data to: provide and operate the MotoCommunity app; show you nearby rides and riders; enable community features (\"Riding Circle\", ratings); send transactional emails (email verification, password reset); improve the product based on aggregated usage patterns.",
     "section_third_title": "3. Third-Party Services",
     "section_third_body": "MotoCommunity uses the following third-party services: Google OAuth and Apple Sign In — for authentication; Cloudflare R2 — for storing profile photos; Resend — for sending transactional emails; Railway — for server hosting; Neon (PostgreSQL) — for database storage.",
     "section_retention_title": "4. Data Retention",
