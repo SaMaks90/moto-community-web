@@ -69,5 +69,14 @@
     "section_contact_title": "7. Contact",
     "section_contact_body": "If you have any questions about this Privacy Policy, contact us via Telegram:",
     "back": "← Back to Home"
+  },
+  "screenshots": {
+    "title": "See the App in Action",
+    "ride_list": "Rides",
+    "map": "Map",
+    "ride_view": "Ride Detail",
+    "my_rides": "My Rides",
+    "profile": "Profile",
+    "chat": "Chat"
   }
 }

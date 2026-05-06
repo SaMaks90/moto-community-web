@@ -69,5 +69,14 @@
     "section_contact_title": "7. Kontakt",
     "section_contact_body": "Jeśli masz pytania dotyczące niniejszej Polityki prywatności, skontaktuj się z nami:",
     "back": "← Powrót do strony głównej"
+  },
+  "screenshots": {
+    "title": "Aplikacja w akcji",
+    "ride_list": "Przejazdy",
+    "map": "Mapa",
+    "ride_view": "Szczegóły przejazdu",
+    "my_rides": "Moje przejazdy",
+    "profile": "Profil",
+    "chat": "Czat"
   }
 }

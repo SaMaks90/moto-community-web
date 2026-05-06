@@ -76,6 +76,15 @@ export const getDictionary = async (locale: Locale) => {
       telegram: string;
       copyright: string;
     };
+    screenshots: {
+      title: string;
+      ride_list: string;
+      map: string;
+      ride_view: string;
+      my_rides: string;
+      profile: string;
+      chat: string;
+    };
     privacy: {
       title: string;
       updated: string;

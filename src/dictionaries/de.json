@@ -69,5 +69,14 @@
     "section_contact_title": "7. Kontakt",
     "section_contact_body": "Bei Fragen zu dieser Datenschutzrichtlinie wenden Sie sich bitte an:",
     "back": "← Zurück zur Startseite"
+  },
+  "screenshots": {
+    "title": "Die App in Aktion",
+    "ride_list": "Fahrten",
+    "map": "Karte",
+    "ride_view": "Fahrtdetails",
+    "my_rides": "Meine Fahrten",
+    "profile": "Profil",
+    "chat": "Chat"
   }
 }

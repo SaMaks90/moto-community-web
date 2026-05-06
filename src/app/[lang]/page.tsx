@@ -4,6 +4,7 @@ import Header from "../../components/Header";
 import Hero from "../../components/Hero";
 import Features from "../../components/Features";
 import ComingFeatures from "../../components/ComingFeatures";
+import Screenshots from "../../components/Screenshots";
 import DownloadCTA from "../../components/DownloadCTA";
 import Footer from "../../components/Footer";
 
@@ -47,6 +48,7 @@ const HomePage = async ({ params }: PageProps<"/[lang]">) => {
       <main>
         <Hero hero={dict.hero} cta={dict.cta} />
         <Features features={dict.features} />
+        <Screenshots screenshots={dict.screenshots} />
         <ComingFeatures comingFeatures={dict.coming_features} />
         <DownloadCTA cta={dict.cta} />
       </main>
